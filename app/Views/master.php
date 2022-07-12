@@ -34,9 +34,11 @@
     <option value="F">Female</option>
     </select><br>
 
-    <label  for="number" class="lbForm">Hire-date</label><br>
+    <label  for="date" class="lbForm">Hire-date</label><br>
     <input id="startDate" class="form-control" type="date" name="date" /><br>
     
+    <label  for="birth" class="lbForm">Birth-date</label><br>
+    <input id="start" class="form-control" type="date" name="birth" /><br>
     <hr class="HR"><br>
     
     <button type="submit" class="btn btn-primary btn-lg">Add Employee</button>   
