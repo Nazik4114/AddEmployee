@@ -1,0 +1,25 @@
+.content{
+    border: 1px #DEDEDE solid;
+    box-shadow: 10px 5px 5px #DEDEDE;
+    padding: 2%;
+}
+.lbForm{
+    font-weight: 800;
+    font-size: 120%;
+}
+.text{
+    color: #6C757D;
+    font-size: 120%;
+}
+h3{
+    text-align: center;
+    font-weight: 900;
+}
+.HR{
+    border: 2px #8DA3BC solid;
+  background-color:  #8DA3BC ;
+  border-radius: 50%;
+}
+button{
+    margin-left: 40%;
+}
